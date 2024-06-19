@@ -12,7 +12,7 @@
 <body>
     <header class="cabecalho">
         <div class="cabecalho-div">
-            <h1 class="cabecalho-titulo">Pinturas Ukiyo-e</h1>
+            <h1 class="cabecalho-titulo">Ukiyo-e</h1>
             <img class="cabecalho-imagem" src="Great_Wave_off_Kanagawa2.jpg" alt="foto-onda">
         </div>
         <ul class="cabecalho-lista">
